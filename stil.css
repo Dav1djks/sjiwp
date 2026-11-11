@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Sankofa+Display&family=Tektur:wght@400..900&display=swap');
+body{
+    background-color:#480ca8;
+    color: #f72585;
+    text-align: center;
+    font-family: "Tektur" ,serif;
+}
+h1{
+    color:  #f72585;
+    text-align: center;
+    font-size: 90px;
+    letter-spacing: 4px;
+    font-family: "Doto", sans-serif;
+    text-shadow: 20000px,20px,90px,gray;
+}
+h2{
+    color: #7209b7;
+    text-align: center;
+    font-family: "Doto", sans-serif;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+p{  
+    color: #b5179e;
+    line-height: 12px;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: #4cc9f0;
+    font-weight: 900;
+    text-align: left;
+}
